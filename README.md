@@ -11,10 +11,9 @@ This project involves developing a **Retrieval-Augmented Generation (RAG) system
 
 ### Prerequisites
 - Python 3.7+
-- OpenAI API Key
+- OpenAI API Key and Org ID
 - LangChain
 - Pandas
-- Scikit-learn
 
 ### Installation
 1. Clone this repository:
